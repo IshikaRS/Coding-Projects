@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    font-family: sans-serif;
+    color: black;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.navbar-inverse {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.contact_1 {
+    display: inline;
+}
+
+#map {
+    text-align: center;
+    height: 600px;
+    width: 100%;
+}
+
+#details {
+    text-align: center;
+}
+#selvi{
+    text-align: center;
+}
